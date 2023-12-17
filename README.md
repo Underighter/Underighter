@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Underighter
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...anaconda/python/VS,TS,MS
-- 💞️ I’m looking to collaborate on ...learning links to forward progessive skills
-- 📫 How to reach me ...undermay@outlook.com
+- 👋 Hi, I’m a learner of code.
+- 👀 I’m interested in ...html css JS React Saas Bootstrap...
+- 🌱 I’m currently learning ...React
+- 💞️ Building each day getting better frame.
+- 📫 How to reach me ...suisun.unlimited@gmail.com
 
 <!---
 Underighter/Underighter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
